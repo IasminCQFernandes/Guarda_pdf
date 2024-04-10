@@ -15,7 +15,7 @@ Este é um aplicativo Python simples que permite criar uma biblioteca de arquivo
   • Clone este repositório para o seu computador local.
   • Instale as bibliotecas necessárias executando pip install pypdf2 no terminal.
   • Execute o script abaixo usando o Python 3.
-  ```
+```
 main.py
 ```
 ## Autores
