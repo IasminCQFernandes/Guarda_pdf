@@ -2,9 +2,9 @@
 Este é um aplicativo Python simples que permite criar uma biblioteca de arquivos PDF e vê-los a partir de uma única interface. O aplicativo usa a biblioteca Tkinter para a GUI e a biblioteca PyPDF2 para manipular arquivos PDF.
 
 ## Recursos
-  • Adicionar arquivos PDF à biblioteca usando um diálogo de arquivo.
-  • Visualizar o arquivo PDF selecionado usando o visualizador PDF padrão.
-  • Exibir a lista de arquivos PDF na biblioteca.
+  - Adicionar arquivos PDF à biblioteca usando um diálogo de arquivo.
+  - Visualizar o arquivo PDF selecionado usando o visualizador PDF padrão.
+  - Exibir a lista de arquivos PDF na biblioteca.
   
 ## Requisitos
   • Python 3.x
