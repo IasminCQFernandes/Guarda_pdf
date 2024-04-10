@@ -7,14 +7,14 @@ Este é um aplicativo Python simples que permite criar uma biblioteca de arquivo
   - Exibir a lista de arquivos PDF na biblioteca.
   
 ## Requisitos
-  • Python 3.x
-  • Tkinter (incluído com o Python)
-  • PyPDF2 (pode ser instalado usando o pip)
+  - Python 3.x
+  - Tkinter (incluído com o Python)
+  - PyPDF2 (pode ser instalado usando o pip)
   
 ## Uso
-  • Clone este repositório para o seu computador local.
-  • Instale as bibliotecas necessárias executando pip install pypdf2 no terminal.
-  • Execute o script abaixo usando o Python 3.
+  - Clone este repositório para o seu computador local.
+  - Instale as bibliotecas necessárias executando pip install pypdf2 no terminal.
+  - Execute o script abaixo usando o Python 3.
 ```
 main.py
 ```
